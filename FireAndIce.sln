@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAndIce", "FireAndIce.csproj", "{D3AD3449-8E21-2E6A-49CD-222B8ABCD569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAndIce.Plugins", "FireAndIce.Plugins.csproj", "{050E55A3-709C-981C-4C4D-BC9CD5B50009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAndIce.Editor", "FireAndIce.Editor.csproj", "{51965F17-7CC5-2B5E-AF1F-0A4FADFD3A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AD3449-8E21-2E6A-49CD-222B8ABCD569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AD3449-8E21-2E6A-49CD-222B8ABCD569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AD3449-8E21-2E6A-49CD-222B8ABCD569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AD3449-8E21-2E6A-49CD-222B8ABCD569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050E55A3-709C-981C-4C4D-BC9CD5B50009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050E55A3-709C-981C-4C4D-BC9CD5B50009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050E55A3-709C-981C-4C4D-BC9CD5B50009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050E55A3-709C-981C-4C4D-BC9CD5B50009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51965F17-7CC5-2B5E-AF1F-0A4FADFD3A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51965F17-7CC5-2B5E-AF1F-0A4FADFD3A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51965F17-7CC5-2B5E-AF1F-0A4FADFD3A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51965F17-7CC5-2B5E-AF1F-0A4FADFD3A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
