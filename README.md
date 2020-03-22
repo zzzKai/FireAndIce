@@ -1,6 +1,6 @@
 # Fire and Ice
 
-Wizards, pick up your wands and protect yourselves with :fire: and :snowflake:!
+Wizards and Witches, pick up your wands and protect yourselves with :fire: and :snowflake:!
 
 ## Getting Started
 
